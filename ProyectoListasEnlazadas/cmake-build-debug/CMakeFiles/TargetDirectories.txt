@@ -1,0 +1,3 @@
+C:/Users/pollo/CLionProjects/ProyectoListasEnlazadas/cmake-build-debug/CMakeFiles/ProyectoListasEnlazadas.dir
+C:/Users/pollo/CLionProjects/ProyectoListasEnlazadas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pollo/CLionProjects/ProyectoListasEnlazadas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
